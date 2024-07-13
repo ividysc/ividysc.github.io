@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ividysc.github.io/sitemap
+Sitemap: https://ividysc.github.io/app/sitemap
+Sitemap: https://ividysc.github.io/assets/sitemap
+Sitemap: https://ividysc.github.io/css/sitemap
+Sitemap: https://ividysc.github.io/includes/sitemap
+Sitemap: https://ividysc.github.io/item/sitemap
+Sitemap: https://ividysc.github.io/src/sitemap
